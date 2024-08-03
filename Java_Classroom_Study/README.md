@@ -20,7 +20,8 @@ Placeholders dentro da ("") serão substituídos pelos valores dos argumentos.
 
  - When I wanna put it defining rules, any aspects like %03d can to be realized 
    - It say [I just can insert max 3 numbers, if less than that, add Zeros...] 
-   ! Look the sample code Function-Printf
+
+* Look the sample code Function-Printf
     
 
     
